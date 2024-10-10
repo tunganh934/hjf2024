@@ -1,1 +1,1 @@
-请点击 www.baidu.com
+请点击www.test.com
